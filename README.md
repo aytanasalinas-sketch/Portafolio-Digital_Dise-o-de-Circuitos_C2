@@ -1,28 +1,32 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Portafolio Digital Diseño de Circuitos">
+<img width="500" height="161" alt="image" src="https://github.com/user-attachments/assets/5fe1976a-6cae-483f-83c9-9c5c26e4bc92" />
 
-</div>
+**UNIVERSIDAD NACIONAL DE LOJA**
 
-<div align="center">
+**FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES**
 
-
-**CARRERA DE COMPUTACIÓN · 2.º CICLO "A"**
+**CARRERA DE INGENIERÍA EN COMPUTACIÓN**
 
 **ASIGNATURA:** DISEÑO DE CIRCUITOS
+
 **DOCENTE:** ING. LUIS DARÍO SINCHE CUEVA, MG.
+
 **ESTUDIANTE:** AYTANA MILENA SALINAS OVIEDO
+
+**CICLO** 2A
+
+**SEPTIEMBRE 2026 - FEBRERO 2027** 
 
 </div>
 
 ---
 <div align="center">
+  
 ## 📖 Introducción
-</div>
+
 
 Este portafolio digital reúne, de forma resumida y organizada, lo aprendido en la asignatura **Diseño de Circuitos**. Se avanza desde la representación binaria hasta circuitos que realizan cálculos, aplicando técnicas de **diseño clásico**: tablas de verdad, álgebra de Boole, mapas de Karnaugh y compuertas lógicas.
-
-> 🎯 **Resultado de aprendizaje R1:** diseña e implementa circuitos combinacionales básicos utilizando técnicas de diseño clásico.
 
 ---
 
@@ -36,16 +40,12 @@ Este portafolio digital reúne, de forma resumida y organizada, lo aprendido en 
 <img src="assets/unidad3.svg" width="290" alt="Unidad 3 - Próximamente">
 </p>
 
-<p align="center">
-<img src="assets/g_not.svg" width="90" alt="NOT"> <img src="assets/g_and.svg" width="90" alt="AND"> <img src="assets/g_or.svg" width="90" alt="OR"> <img src="assets/g_nand.svg" width="90" alt="NAND"> <img src="assets/g_nor.svg" width="90" alt="NOR"> <img src="assets/g_xor.svg" width="90" alt="XOR"> <img src="assets/g_xnor.svg" width="90" alt="XNOR">
-</p>
-
 ---
 
 <div align="center">
 
-| Unidad | Tema | Estado |
-|:---:|:---|:---:|
+| Unidad | Estado |
+|:---:|:---:|
 | [**Unidad 1**](UNIDAD_1.md) | ✅ **Culminada** |
 | Unidad 2 | ⏳ Próximamente |
 | Unidad 3 | ⏳ Próximamente |
