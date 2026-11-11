@@ -1,7 +1,7 @@
 
 <h1 align="center">🗺️ Semana 3 · Mapas de Karnaugh, indiferentes y NAND/NOR</h1>
 
-# 📘 Sesión 1 · Mapas de Karnaugh
+# 📗 Sesión 1 · Mapas de Karnaugh
 
 ## 1️⃣ ¿Por qué el orden 00, 01, 11, 10?
 
