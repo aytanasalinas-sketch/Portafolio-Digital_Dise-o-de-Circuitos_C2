@@ -11,13 +11,14 @@
 
 **ASIGNATURA:** DISEÑO DE CIRCUITOS
 **DOCENTE:** ING. LUIS DARÍO SINCHE CUEVA, MG.
-**ESTUDIANTE:** AYTANA SALINAS
+**ESTUDIANTE:** AYTANA MILENA SALINAS OVIEDO
 
 </div>
 
 ---
-
+<div align="center">
 ## 📖 Introducción
+</div>
 
 Este portafolio digital reúne, de forma resumida y organizada, lo aprendido en la asignatura **Diseño de Circuitos**. Se avanza desde la representación binaria hasta circuitos que realizan cálculos, aplicando técnicas de **diseño clásico**: tablas de verdad, álgebra de Boole, mapas de Karnaugh y compuertas lógicas.
 
@@ -45,8 +46,8 @@ Este portafolio digital reúne, de forma resumida y organizada, lo aprendido en 
 
 | Unidad | Tema | Estado |
 |:---:|:---|:---:|
-| [**Unidad 1**](UNIDAD_1.md) | Análisis de lógica combinacional con diseño clásico | ✅ **Culminada** |
-| Unidad 2 | Lógica secuencial | ⏳ Próximamente |
-| Unidad 3 | Diseño moderno con VHDL y FPGA | ⏳ Próximamente |
+| [**Unidad 1**](UNIDAD_1.md) | ✅ **Culminada** |
+| Unidad 2 | ⏳ Próximamente |
+| Unidad 3 | ⏳ Próximamente |
 
 </div>
