@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🧮 Semana 2 · Álgebra de Boole y formas canónicas</h1>
+<h1 align="center"> 🔢 Semana 2 · Álgebra de Boole y formas canónicas</h1>
 
 ## 1️⃣ Un circuito y una expresión son lo mismo
 
