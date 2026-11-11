@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Portafolio Digital Diseño de Circuitos">
-
-</div>
 
 <h1 align="center">🔢 Semana 1 · Sistemas numéricos, códigos y compuertas</h1>
 
