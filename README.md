@@ -29,10 +29,9 @@
 Este portafolio digital reúne, de forma resumida y organizada, lo aprendido en la asignatura **Diseño de Circuitos**. Se avanza desde la representación binaria hasta circuitos que realizan cálculos, aplicando técnicas de **diseño clásico**: tablas de verdad, álgebra de Boole, mapas de Karnaugh y compuertas lógicas.
 
 ---
+**Bienvenido a mi portafolio digital, aqui podrás encontrar mis trabajos y proyectos correspondiente al segundo ciclo. Para ver el contenido detallado, haz clic en la unidad que desee navegar:**  
 
 <h2 align="center">📚 Unidades</h2>
-
-<p align="center"><sub>Pulsa sobre una unidad para entrar</sub></p>
 
 <p align="center">
 <a href="UNIDAD_1.md"><img src="assets/unidad1.svg" width="290" alt="Unidad 1 - Culminada"></a>
