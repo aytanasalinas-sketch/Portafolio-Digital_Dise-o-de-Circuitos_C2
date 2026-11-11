@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="assets/banner.svg" width="100%" alt="Portafolio Digital Diseño de Circuitos">
-
-</div>
 
 <h1 align="center">🗺️ Semana 3 · Mapas de Karnaugh, indiferentes y NAND/NOR</h1>
 
