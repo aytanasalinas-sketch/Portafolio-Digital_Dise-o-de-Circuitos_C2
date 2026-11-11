@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3d2e"/><stop offset="1" stop-color="#1f7a56"/></linearGradient></defs>
+<rect width="900" height="200" rx="18" fill="url(#g)"/>
+<text x="450" y="46" text-anchor="middle" font-size="14" fill="#cfe9db" letter-spacing="3" font-family="Segoe UI,Arial,sans-serif">UNIVERSIDAD NACIONAL DE LOJA · COMPUTACIÓN · 2.º CICLO</text>
+<text x="450" y="104" text-anchor="middle" font-size="44" font-weight="700" fill="#fff" font-family="Segoe UI,Arial,sans-serif">Portafolio Digital</text>
+<text x="450" y="146" text-anchor="middle" font-size="28" fill="#ffd9b8" font-family="Segoe UI,Arial,sans-serif">Diseño de Circuitos</text>
+<text x="450" y="178" text-anchor="middle" font-size="14" fill="#cfe9db" font-family="Segoe UI,Arial,sans-serif">Período septiembre 2026 – marzo 2027</text></svg>
