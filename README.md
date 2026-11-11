@@ -29,7 +29,8 @@
 Este portafolio digital reúne, de forma resumida y organizada, lo aprendido en la asignatura **Diseño de Circuitos**. Se avanza desde la representación binaria hasta circuitos que realizan cálculos, aplicando técnicas de **diseño clásico**: tablas de verdad, álgebra de Boole, mapas de Karnaugh y compuertas lógicas.
 
 ---
-**Bienvenido a mi portafolio digital, aqui podrás encontrar mis trabajos y proyectos correspondiente al segundo ciclo. Para ver el contenido detallado, haz clic en la unidad que desee navegar:**  
+**Bienvenido a mi portafolio digital, aqui podrás encontrar mis trabajos y proyectos correspondiente al segundo ciclo. Para ver el contenido detallado, haz clic en la unidad que desee navegar:** 
+---
 
 <h2 align="center">📚 Unidades</h2>
 
@@ -50,3 +51,11 @@ Este portafolio digital reúne, de forma resumida y organizada, lo aprendido en 
 | Unidad 3 | ⏳ Próximamente |
 
 </div>
+
+---
+<div align="center">
+  
+## Declaración de IA
+La inteligencia artificial se ha convertido en una herramienta fundamental en la sociedad contemporánea, permitiendo optimizar procesos, mejorar la toma de decisiones y automatizar tareas en diversos campos como la salud, la educación y la industria. Sin embargo, su uso responsable requiere considerar aspectos éticos como la privacidad, la transparencia y el impacto en el empleo, garantizando que su desarrollo beneficie a la humanidad de manera equitativa y sostenible.
+
+Durante del desarrollo de mi portafolio en la unidad 1 hice uso de la IA (CLAUDE.IA) para generar los códigos correspondientes para modificación de textos, títulos, insertar las subacarpetas que contiene los temas de la unidad con la finalidad que mi portafolio se visualice de forma ordenada y creativo.
